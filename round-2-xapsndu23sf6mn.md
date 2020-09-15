@@ -12,3 +12,5 @@ _(Hint: All you need to do it look at the '6PDM1TM3   V9QGP' and the numbers wil
 [p.s. you may enter the above found phrase of '6PDM1TM3   V9QGP' without any spaces in this link and get it directly](https://drive.google.com/file/d/1YmKe5eDCUCB-DjzVuFSoy3EuNr9Ityqo/view?usp=sharing)
 
 [Move Ahead to Round-3](https://drive.google.com/file/d/1ZLGuK1rrWcVlZYVwoBQyR1FCPZH0A46F/view?usp=sharing)
+
+_(enter the answer together without any spaces with moving to round 3)_
