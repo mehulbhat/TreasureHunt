@@ -9,4 +9,4 @@ So, I have a problem I would really like your help with if youre upto it?
 
 _(Hint: All you need to do it look at the '6PDM1TM3   V9QGP' and the numbers will make sense)_
 
-[p.s. you may enter the phrase '6PDM1TM3   V9QGP' without any spaces in this link and get it directly](https://cdn.britannica.com/45/7445-050-CA28EA33/version-periodic-table-elements.jpg)
+[p.s. you may enter the translation of the phrase '6PDM1TM3   V9QGP' without any spaces in this link and get it directly](https://drive.google.com/file/d/1YmKe5eDCUCB-DjzVuFSoy3EuNr9Ityqo/view?usp=sharing)
