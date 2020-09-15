@@ -11,6 +11,7 @@ So now for some fun, here is all you need to know
 **Treasure Hunt v.16.09.00 (shtit edition)**
 _(try reversing once in a while)_
 
+```
 # Welcome to your Birthday surprise,
 Instead of blantantly just doing something cheesy for you, I thought what do I know about my girl in the past
 one year of being together, that she loves adventure and doing something fun, so in an attempt of trying to 
@@ -18,6 +19,7 @@ do something out of the box, here is your very own treasure hunt.
 Your challege, should you choose to accept it, is to go through a series of challenges, requiring nothing but 
 your analytical skills and that sharp brain, to go through all the puzzles and brain teasers to arrive at the 
 final stage, your __surprise__.
+```
 
 ### ==>Some ground rules and facts:
 1. You cannot skip any stage at the clues are all linked together.
