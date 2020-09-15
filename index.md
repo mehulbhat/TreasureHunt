@@ -41,7 +41,7 @@ come in hand after all.
 
 ![alt text](https://github.com/mehulbhat/TreasureHunt/blob/master/crypt_QR.jpg "You know what to do with me!")
 
-Now, I have a question for you, should you choose to answer
+#####Now, I have a question for you, should you choose to answer
 
 _You do not want to have it_
 
