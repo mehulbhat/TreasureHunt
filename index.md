@@ -39,8 +39,9 @@ final stage, your surprise.
 Why have we become enslaved to this one thing always in our hand, but no matter what, seems that it does
 come in hand after all.
 <div align="center">
-  <img border="0"  src="https://github.com/mehulbhat/TreasureHunt/blob/data/Untitled.jpg" alt="QR-code" title="You know what to do with me!">
+  <img border="0"  src="https://github.com/mehulbhat/Predicting-House-Prices/blob/master/Housing%20Prices/images/pt_vl.jpg">
 </div>
+
 
 ##### Now, I have a question for you, should you choose to answer
 
