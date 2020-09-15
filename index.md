@@ -19,7 +19,7 @@ one year of being together, that she loves adventure and doing something fun, so
 do something out of the box, here is your very own treasure hunt.
 Your challege, should you choose to accept it, is to go through a series of challenges, requiring nothing but 
 your analytical skills and that sharp brain, to go through all the puzzles and brain teasers to arrive at the 
-final stage, your __surprise__.
+final stage, your surprise.
 ```
 
 ### ==>Some ground rules and facts:
@@ -37,7 +37,7 @@ final stage, your __surprise__.
 ## Round 1 - The law is anything but obvious
 Why have we become enslaved to this one little thing always in our hand, but no matter what it does
 come in hand after all.
-![alt text](https://github.com/mehulbhat/hunt/blob/data/crypt_round-1.png "You know what to do with me!")
+![alt text](https://github.com/mehulbhat/TreasureHunt/blob/data/crypt_round-1.png "You know what to do with me!")
 
 Now, I have a question for you, should you choose to answer
 
