@@ -39,7 +39,7 @@ final stage, your surprise.
 Why have we become enslaved to this one little thing always in our hand, but no matter what it does
 come in hand after all.
 
-![alt text](https://github.com/mehulbhat/TreasureHunt/blob/master/crypt_round-1.png "You know what to do with me!")
+![alt text](https://github.com/mehulbhat/TreasureHunt/blob/master/crypt_QR.jpg "You know what to do with me!")
 
 Now, I have a question for you, should you choose to answer
 
