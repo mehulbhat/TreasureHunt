@@ -22,7 +22,7 @@ your analytical skills and that sharp brain, to go through all the puzzles and b
 final stage, your surprise.
 ```
 
-### ==>Some ground rules and facts:
+### ==> Some ground rules and facts:
 1. You cannot skip any stage at the clues are all linked together.
 2. Use your laptop to go through this as it would be easier and avoid any difficulty.
 3. You start from this page, the very first stage. Followed by 4 levels with increasing difficulty.
