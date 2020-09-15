@@ -38,8 +38,9 @@ final stage, your surprise.
 ## Round 1 - The law is anything but obvious
 Why have we become enslaved to this one thing always in our hand, but no matter what, seems that it does
 come in hand after all.
-![scsss](https://github.com/mehulbhat/TreasureHunt/blob/data/Untitled.jpg "You know what to do with me!")
-![scs1111](https://store-images.s-microsoft.com/image/apps.33967.13510798887182917.246b0a3d-c3cc-46fc-9cea-021069d15c09.392bf5f5-ade4-4b36-aa63-bb15d5c3817a "You know what to do with me!")
+<div align="center">
+  <img border="0"  src="https://github.com/mehulbhat/TreasureHunt/blob/data/Untitled.jpg" alt="QR-code" title="You know what to do with me!">
+</div>
 
 ##### Now, I have a question for you, should you choose to answer
 
