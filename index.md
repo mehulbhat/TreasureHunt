@@ -12,7 +12,7 @@ So now for some fun, here is all you need to know
 
 _(try reversing once in a while)_
 
-```
+```markdown
 # Welcome to your Birthday surprise,
 Instead of blantantly just doing something cheesy for you, I thought what do I know about my girl in the past
 one year of being together, that she loves adventure and doing something fun, so in an attempt of trying to 
