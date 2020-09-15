@@ -36,11 +36,10 @@ final stage, your surprise.
    surprise. May the odds be with you.
 
 ## Round 1 - The law is anything but obvious
-Why have we become enslaved to this one little thing always in our hand, but no matter what it does
+Why have we become enslaved to this one thing always in our hand, but no matter what, seems that it does
 come in hand after all.
 
 ![alt text](https://github.com/mehulbhat/TreasureHunt/blob/master/crypt_QR.jpg "You know what to do with me!")
-![alt text](https://drive.google.com/file/d/1OI-Wl96CW4p-VQ3D2Y4qhCufS9wxrlYU/view?usp=sharing "You know what to do with me!")
 
 Now, I have a question for you, should you choose to answer
 
