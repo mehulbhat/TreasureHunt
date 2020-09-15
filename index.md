@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to your very own "treasure hunt"
 
-You can use the [editor on GitHub](https://github.com/mehulbhat/TreasureHunt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I know, I can't be there to make you happy and do all the amazing things I had planned for you, but consider this as an appreciation for having you in my life and the fact that I cant be there is no reason I can't have something special for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And don't worry, I have a lot more for you as soon as I personally get to see you.
 
-### Markdown
+### Details
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So now for some fun, here is all you need to know
 
-```
-Syntax highlighted code block
+**Treasure Hunt v.16.09.00 (shtit edition)**
+_(try reversing once in a while)_
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome to your Birthday surprise,
+Instead of blantantly just doing something cheesy for you, I thought what do I know about my girl in the past
+one year of being together, that she loves adventure and doing something fun, so in an attempt of trying to 
+do something out of the box, here is your very own treasure hunt.
+Your challege, should you choose to accept it, is to go through a series of challenges, requiring nothing but 
+your analytical skills and that sharp brain, to go through all the puzzles and brain teasers to arrive at the 
+final stage, your __surprise__.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### ==>Some ground rules and facts:
+1. You cannot skip any stage at the clues are all linked together.
+2. Use your laptop to go through this as it would be easier and avoid any difficulty.
+3. You start from this page, the very first stage. Followed by 4 levels with increasing difficulty.
+4. If at any stage you get stuck you only get 2 clues(in total) from me, the creator of this challenge, to help 
+   solve the challenge.
+5. Little to no technical knowledge is needed for this challenge, primarily your analytical skills, so think in 
+   that manner.
+6. Oh, and one little thing, once you accept and start the challenge, you will have a 3 hour timer beginning, at 
+   the end of which this page and the whole treasure hunt will shut down, and you will lose your birthday
+   surprise. May the odds be with you.
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Round 1 - The law is anything but obvious
+Why have we become enslaved to this one little thing always in our hand, but no matter what it does
+come in hand after all.
+![Image](https://github.com/mehulbhat/hunt/blob/data/crypt_round-1.png)
 
-### Jekyll Themes
+Now, I have a question for you, should you choose to answer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mehulbhat/TreasureHunt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_You do not want to have it,
+but when you do have it,
+you do not want to lose it.
 
-### Support or Contact
+(p.s. one word answer, Hint: "A79V  A1FGT  79D4P8  26P3VPD  298 ?")_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[link]()
+
