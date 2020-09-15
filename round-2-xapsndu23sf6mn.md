@@ -13,4 +13,4 @@ _(Hint: All you need to do it look at the '6PDM1TM3   V9QGP' and the numbers wil
 
 [Move Ahead to Round-3](https://drive.google.com/file/d/1ZLGuK1rrWcVlZYVwoBQyR1FCPZH0A46F/view?usp=sharing)
 
-_(enter the answer together without any spaces with moving to round 3)_
+_(enter the answer together without any spaces when moving to round 3)_
