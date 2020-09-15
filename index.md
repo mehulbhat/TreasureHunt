@@ -41,15 +41,17 @@ final stage, your __surprise__.
 ## Round 1 - The law is anything but obvious
 Why have we become enslaved to this one little thing always in our hand, but no matter what it does
 come in hand after all.
-![Image](https://github.com/mehulbhat/hunt/blob/data/crypt_round-1.png)
+![alt text](https://github.com/mehulbhat/hunt/blob/data/crypt_round-1.png "You know what to do with me!")
 
 Now, I have a question for you, should you choose to answer
 
-_You do not want to have it,
-but when you do have it,
-you do not want to lose it.
+_You do not want to have it_
 
-(p.s. one word answer, Hint: "A79V  A1FGT  79D4P8  26P3VPD  298 ?")_
+_but when you do have it,_
+
+_you do not want to lose it._
+
+_(p.s. one word answer, Hint: "A79V  A1FGT  79D4P8  26P3VPD  298 ?")_
 
 [link]()
 
