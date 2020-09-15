@@ -34,10 +34,6 @@ final stage, your __surprise__.
    the end of which this page and the whole treasure hunt will shut down, and you will lose your birthday
    surprise. May the odds be with you.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
 ## Round 1 - The law is anything but obvious
 Why have we become enslaved to this one little thing always in our hand, but no matter what it does
 come in hand after all.
