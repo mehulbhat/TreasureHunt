@@ -3,7 +3,7 @@
 Congratulations are in order for successfully clearing round 1.
 Challenges await you, go ahead.
 
-So, I have a problem I would really like your help with if youre upto it?
+So, I have a problem and I would like your help with if youre upto it?
 
 **A very famous chemist was found murdered in his kitchen today. The police narrowed it down to six suspects. They know it was a two man job. Their names; Felice, Maxwell, Archibald, Nicholas, Jordan and Xavier. A note was also found with the body: 26 – 3 – 58 / 28 – 27 – 57 – 16. Who are the killers?**
 
