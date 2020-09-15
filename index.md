@@ -38,10 +38,7 @@ final stage, your surprise.
 ## Round 1 - The law is anything but obvious
 Why have we become enslaved to this one thing always in our hand, but no matter what, seems that it does
 come in hand after all.
-<div align="center">
-  <img border="0"  src="https://github.com/mehulbhat/Predicting-House-Prices/blob/master/Housing%20Prices/images/pt_vl.jpg">
-</div>
-
+![QR-code](https://raw.githubusercontent.com/mehulbhat/TreasureHunt/data/Untitled.jpg "You know what to do with me!")
 
 ##### Now, I have a question for you, should you choose to answer
 
