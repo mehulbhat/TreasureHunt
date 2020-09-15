@@ -30,7 +30,8 @@ final stage, your surprise.
    solve the challenge.
 5. Little to no technical knowledge is needed for this challenge, primarily your analytical skills, so think in 
    that manner.
-6. Oh, and one little thing, once you accept and start the challenge, you will have a 3 hour timer beginning, at 
+6. You need the answers for each round to help unlock the next one.
+7. Oh, and one little thing, once you accept and start the challenge, you will have a 3 hour timer beginning, at 
    the end of which this page and the whole treasure hunt will shut down, and you will lose your birthday
    surprise. May the odds be with you.
 
@@ -51,5 +52,6 @@ _you do not want to lose it._
 
 _(p.s. one word answer, Hint: "A79V   A1FGT   79D4P8   26P3VPD   298 ?")_
 
-[link]()
+[Move Ahead to Round-2]()
 
+![alt text](https://github.com/mehulbhat/TreasureHunt/blob/master/crypt_round-1.png "You know what to do with me!")
