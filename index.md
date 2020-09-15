@@ -54,4 +54,4 @@ _(p.s. one word answer, Hint: "A79V   A1FGT   79D4P8   26P3VPD   298 ?")_
 
 [Move Ahead to Round-2]()
 
-![alt text](https://github.com/mehulbhat/TreasureHunt/blob/master/crypt_round-1.png "You know what to do with me!")
+
